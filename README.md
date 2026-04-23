@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 👋 Hi, I'm Amu Nii Kelvin Okai
 I’m a Full Stack Web Developer passionate about building scalable web apps and exploring new technologies. I love turning ideas into reality and sharing my projects with the community. 🚀<br>
 
 
